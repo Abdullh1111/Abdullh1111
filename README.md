@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 
   <h1 align="center">Abdullah Al Amin</h1>
-  <h3 align="center">Senior Full-Stack Engineer</h3>
+  <h3 align="center">Full-Stack Engineer</h3>
 
 <!-- Precision Typing Animation -->
   <p align="center">
@@ -26,9 +26,7 @@
 #### Frontend Engineering
 - **React** (Hooks, Context, Concurrent Mode)
 - **Next.js** (App Router, SSR/ISR Optimization)
-- State Management (Zustand, Jotai)
 - Component Libraries (Radix UI, Shadcn)
-- Web Performance (LCP, TTI Optimization)
 
     </td>
     <td width="50%" valign="top">
