@@ -1,9 +1,4 @@
 <!-- GitHub Profile README -->
-<div align="center">
-  <a href="https://abdullah-chi-cyan.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/52dbfd23-ad5d-4ab7-9a39-82762b873165" width="100%" alt="Abdullah Al Amin" />
-  </a>
-</div>
 
 <div align="center">
   <h1>Abdullah Al Amin</h1>
