@@ -1,53 +1,48 @@
 <!-- GitHub Profile README -->
+<div align="center">
+  <a href="https://abdullah-chi-cyan.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api](https://abdullah-chi-cyan.vercel.app?type=waving&color=0:2563eb,50:7c3aed,100:db2777&height=220&section=header&text=Abdullah+Al+Amin&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  </a>
+</div>
 
 <div align="center">
-  <h1>Abdullah Al Amin</h1>
-  <h3>Full-Stack Engineer</h3>
+  <h1 style="color: #2563eb;">Abdullah Al Amin</h1>
+  <h3 style="color: #7c3aed;">Full-Stack Engineer</h3>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6CF2C0&center=true&width=500&height=60&lines=TypeScript+%E2%9E%A6+React+%E2%9E%A6+NestJS+%E2%9E%A6+Prisma;Cloud+Ready+%E2%9E%A6+Performance+Optimized;Clean+Code+%E2%9E%A6+DX+Focus" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2563eb&center=true&width=500&height=60&lines=TypeScript+Specialist;NestJS+Architect;React+Expert;Performance+Optimized" alt="Typing Animation" />
 </div>
 
 ## 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e6cbb955-4253-4fb0-bbbb-a95863a4ba5a" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/7d0d3959-197d-4fc9-bb65-00e50253fde5" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/5cf85aac-21c9-4563-9cc2-9113c6079d8a" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/bcffb59d-fbd9-4d41-ade2-6e6ac94b2b2a" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/06f49218-7e60-4143-8981-f600fc169908" width="18%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d2f886e8-39ef-4735-81e1-b3f0e75c39ae" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/5d6f30ec-aed0-45d8-bf9a-576d949ace81" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/d7fd613c-f3c1-4564-a846-1471c69a1c6d" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/2ff26312-d6ef-47dc-81f6-a0e467f8bc87" width="18%"/>
-  <img src="https://github.com/user-attachments/assets/0d3a9871-0db3-4b0e-acf4-9d99cffd88b1" width="18%"/>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgresql,mongodb&theme=light&perline=6" alt="Technical Skills" />
 </div>
 
 ## 
 
-### Technical Stack
+### Technical Expertise
 
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 0 15px;">
 
-#### Frontend Mastery
-- **React** (Hooks, Context, Performance)
-- **Next.js** (App Router, SSR/ISR)
-- **TypeScript** (Static Typing)
-- **Tailwind CSS** (Utility-First)
-- Component Libraries (Radix UI)
+#### Frontend Development
+- **React** with TypeScript
+- Next.js App Router
+- Tailwind CSS
+- State Management
+- Component Libraries
+- Performance Optimization
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 0 15px;">
 
-#### Backend Expertise
-- **NestJS** (Microservices)
-- **Node.js/Express** (API Development)
-- **Prisma** (Type-Safe ORM)
-- **PostgreSQL** (Relational DB)
-- **MongoDB** (NoSQL Solutions)
+#### Backend Development
+- NestJS Microservices
+- Node.js/Express
+- PostgreSQL & MongoDB
+- Prisma ORM
+- REST & GraphQL APIs
 - Authentication Systems
 
     </td>
@@ -56,30 +51,30 @@
 
 ## 
 
-<p align="center" width="100%">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Abdullh1111&border_radius=0&theme=react&hide_border=true&background=000000&stroke=6cf2c0&fire=fddf67&sideLabels=6cf2c0&currStreakNum=6cf2c0&ring=6cf2c0&currStreakLabel=fddf67&sideNums=fddf67" />
-</p>
+<div align="center" style="margin: 30px 0;">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Abdullh1111&theme=blueberry&hide_border=true&background=0D1117&stroke=7c3aed&fire=2563eb&sideLabels=7c3aed&currStreakNum=7c3aed&ring=2563eb" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdullh1111&show_icons=true&theme=react&hide_border=true&bg_color=000000&title_color=6CF2C0&icon_color=FDDF67&text_color=FFFFFF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullh1111&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=6CF2C0&text_color=FFFFFF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdullh1111&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=2563eb&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullh1111&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff" alt="Top Languages" />
 </div>
 
 ## 
 
-<div align="center">
-  <a href="https://abdullah-chi-cyan.vercel.app" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0bfddd47-b986-419a-a1e7-7d4bfa852c19" width="32%"/>
+<div align="center" style="margin-top: 30px;">
+  <a href="https://abdullah-chi-cyan.vercel.app" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/abdullah-al-amin-b14480306/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/52b07f88-9137-4e73-8c0c-924151b24c48" width="32%"/>
+  <a href="https://www.linkedin.com/in/abdullah-al-amin-b14480306/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abdullah4474032@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/976ad2f5-6952-4d6d-9993-4509736d18be" width="32%"/>
+  <a href="mailto:abdullah4474032@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<!-- Minimalist Footer -->
-<div align="center">
-  <p>Engineering Excellence · Scalable Solutions · Clean Code</p>
+<!-- Footer -->
+<div align="center" style="margin-top: 40px; color: #7c3aed; font-size: 14px;">
+  <p>Engineering Excellence • Clean Code • Scalable Solutions</p>
 </div>
