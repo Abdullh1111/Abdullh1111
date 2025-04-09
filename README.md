@@ -64,7 +64,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullh1111&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdullh1111&theme=tokyonight&border_radius=12&hide_border=true" width="48%" />
+  <img src="https://api-streak-stats.vercel.app/?user=Abdullh1111&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+
 </p>
 
 ---
