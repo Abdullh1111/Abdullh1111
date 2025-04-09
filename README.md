@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Abdullah 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
@@ -11,9 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working as a **Backend Developer** at [Onlinstuff](#)
-- ⚡ I specialize in building **scalable web applications**
-- 🌱 I’m currently exploring **AI integrations and microservices**
+- 🔭 I'm a Full-Stack Developer with expertise in both frontend and backend technologies.
 - 💬 Ask me about **NestJS, Prisma, PostgreSQL, Redis, Microservices**
 - 👨‍🏫 I also enjoy helping others learn by building real-world projects
 
