@@ -1,80 +1,113 @@
 <!-- GitHub Profile README -->
 <div align="center">
-  <a href="https://abdullah-chi-cyan.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api](https://abdullah-chi-cyan.vercel.app?type=waving&color=0:2563eb,50:7c3aed,100:db2777&height=220&section=header&text=Abdullah+Al+Amin&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
-  </a>
+
+<!-- Minimalist Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+
+  <h1 align="center">Abdullah Al Amin</h1>
+  <h3 align="center">Full-Stack Engineer</h3>
+
+<!-- Precision Typing Animation -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1200&color=7C3AED&center=true&width=580&lines=TypeScript+Specialist+%E2%96%B8+React+Architecture+%E2%96%B8+NestJS+Systems;Performance-Optimized+Solutions+%E2%96%B8+Enterprise-Grade+Applications" alt="Technical Expertise" />
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </div>
 
-<div align="center">
-  <h1 style="color: #2563eb;">Abdullah Al Amin</h1>
-  <h3 style="color: #7c3aed;">Full-Stack Engineer</h3>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2563eb&center=true&width=500&height=60&lines=TypeScript+Specialist;NestJS+Architect;React+Expert;Performance+Optimized" alt="Typing Animation" />
-</div>
+---
 
-## 
+### Core Competencies
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgresql,mongodb&theme=light&perline=6" alt="Technical Skills" />
-</div>
-
-## 
-
-### Technical Expertise
-
-<table align="center" style="width: 100%;">
+<table align="center">
   <tr>
-    <td width="50%" valign="top" style="padding: 0 15px;">
+    <td width="50%" valign="top">
 
-#### Frontend Development
-- **React** with TypeScript
-- Next.js App Router
-- Tailwind CSS
-- State Management
-- Component Libraries
-- Performance Optimization
+#### Frontend Engineering
+- **HTML5/CSS3** (Semantic Markup, Responsive Design)
+- **JavaScript/TypeScript** (ES6+, Modern Patterns)
+- **React** (Hooks, Context, Concurrent Mode)
+- **Next.js** (App Router, SSR/ISR Optimization)
+- **Tailwind CSS** (Utility-First Styling)
+- Component Libraries (Radix UI, Shadcn)
 
     </td>
-    <td width="50%" valign="top" style="padding: 0 15px;">
+    <td width="50%" valign="top">
 
-#### Backend Development
-- NestJS Microservices
-- Node.js/Express
-- PostgreSQL & MongoDB
-- Prisma ORM
-- REST & GraphQL APIs
-- Authentication Systems
+#### Backend Systems
+- **Node.js** (Runtime Optimization)
+- **Express.js** (REST API Development)
+- **NestJS** (Microservices, GraphQL)
+- Database Architecture (PostgreSQL, MongoDB)
+- **Prisma** (Type-Safe ORM)
+- API Design (RESTful, tRPC, WebSockets)
+- Authentication (JWT, OAuth2, Sessions)
 
     </td>
   </tr>
 </table>
 
-## 
+---
 
-<div align="center" style="margin: 30px 0;">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Abdullh1111&theme=blueberry&hide_border=true&background=0D1117&stroke=7c3aed&fire=2563eb&sideLabels=7c3aed&currStreakNum=7c3aed&ring=2563eb" alt="GitHub Streak" />
-</div>
+### Technical Proficiencies
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdullh1111&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=2563eb&text_color=ffffff" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullh1111&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff" alt="Top Languages" />
+
+#### Languages
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+#### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+#### Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+
+#### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+
 </div>
 
-## 
+---
 
-<div align="center" style="margin-top: 30px;">
-  <a href="https://abdullah-chi-cyan.vercel.app" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+### Engineering Principles
+<p align="center">
+  <em>Modular Architecture · Type Safety · Performance First · Clean Contracts · DX Focus</em>
+</p>
+
+---
+
+### GitHub Analytics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullh1111&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=7C3AED&icon_color=7C3AED" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullh1111&layout=compact&hide_border=true&bg_color=00000000&text_color=7C3AED&title_color=7C3AED" />
+</div>
+
+---
+
+### Professional Contact
+<div align="center">
+  <a href="mailto:abdullah4474032@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional%20Inquiry-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdullah-al-amin-b14480306/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/abdullah-al-amin-b14480306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdullah4474032@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://abdullah-chi-cyan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </div>
 
-<!-- Footer -->
-<div align="center" style="margin-top: 40px; color: #7c3aed; font-size: 14px;">
-  <p>Engineering Excellence • Clean Code • Scalable Solutions</p>
+<!-- Minimalist Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+  <p>Systems Engineering · Technical Excellence · Scalable Solutions</p>
 </div>
