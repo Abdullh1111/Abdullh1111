@@ -62,19 +62,10 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-link/)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
+- 📧 Email: (abdullah4474032@gmail.com)
+- 💼 LinkedIn: (https://www.linkedin.com/in/abdullah-al-amin-b14480306/)
+- 🌐 Portfolio: https://abdullah-chi-cyan.vercel.app/
 ---
-
-### 🔗 Featured Projects
-
-- 🚀 [E-commerce Platform](https://e-commerce-1-axxy.onrender.com)
-- 🔐 [Authentication System](https://full-secure-login-and-registration-1.onrender.com)
-- 💬 [Chat App](#)
-- 🛍️ [Suburbia Skateboards](#)
-
 ---
 
 <p align="center">
