@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I'm a Full-Stack Developer with expertise in both frontend and backend technologies.
-- 💬 Ask me about **NestJS, Prisma, PostgreSQL, Redis, Microservices**
+- 💬 Ask me about **NextJs, React, NestJS, Prisma, PostgreSQL, Redis, Microservices**
 - 👨‍🏫 I also enjoy helping others learn by building real-world projects
 
 ---
@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullh1111&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullh1111&theme=radical" alt="GitHub streak" width="48%" />
 </p>
 
 ---
