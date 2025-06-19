@@ -90,12 +90,6 @@
 
 ---
 
-### GitHub Analytics
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullh1111&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=7C3AED&icon_color=7C3AED" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullh1111&layout=compact&hide_border=true&bg_color=00000000&text_color=7C3AED&title_color=7C3AED" />
-</div>
-
 ---
 
 ### Professional Contact
