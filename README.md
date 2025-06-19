@@ -81,14 +81,6 @@
 
 </div>
 
----
-
-### Engineering Principles
-<p align="center">
-  <em>Modular Architecture · Type Safety · Performance First · Clean Contracts · DX Focus</em>
-</p>
-
----
 
 ---
 
